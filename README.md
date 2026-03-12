@@ -68,7 +68,7 @@ Wenn Sie auf eine Stelle stossen, wo vom Testcode aus der Produktivcode
 aufgerufen wird, lesen Sie auch den Produktivcode.
 
 Führen Sie die Tests anschliessend mit `npx jest` oder mithilfe der
-[Jest-Erweiterung](https://open-vsx.org/extension/Orta/vscode-jest) von Visual
+[Jest-Erweiterung](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) von Visual
 Studio Code aus.
 
 ### Aufgabe 2.2: Produktivcode manipulieren
